@@ -36,7 +36,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="SHOW_INDENT_LINES" value="true" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
